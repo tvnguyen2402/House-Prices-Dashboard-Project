@@ -1,1 +1,1 @@
-# House-Prices-Dashboard-Project
+# House Prices Dashboard Project
